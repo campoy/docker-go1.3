@@ -5,7 +5,7 @@ Docker images providing different versions of Go
 
 To build the image:
 
-	$ docker build -t go1.3 thub.com/campoy/docker-go1.3
+	$ docker build -t go1.3 github.com/campoy/docker-go1.3
 	...
 
 And run it:
