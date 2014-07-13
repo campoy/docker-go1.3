@@ -4,6 +4,8 @@ docker-go1.3
 Docker image providing the Go compiler and tools for go1.3.
 It also includes git and mercurial to make `go get` work out of the box.
 
+The image is on the docker registry as [francesc/golang:1.3](https://registry.hub.docker.com/u/francesc/golang/).
+
 To build the image:
 
 	$ docker build -t francesc/golang:1.3 github.com/campoy/docker-go1.3
