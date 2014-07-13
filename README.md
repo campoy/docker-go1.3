@@ -15,4 +15,9 @@ And run it:
 
 Or just get it from the docker registry:
 
-	docker pull francesc/go:1.3
+	$ docker pull francesc/go:1.3
+
+Or directly
+
+	$ docker run francesc/go:1.3 go version
+	go version go1.3 linux/amd64
