@@ -15,4 +15,4 @@ And run it:
 
 Or just get it from the docker registry:
 
-  docker pull francesc/go:1.3
+	docker pull francesc/go:1.3
